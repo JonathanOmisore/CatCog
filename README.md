@@ -1,2 +1,2 @@
 # CatCog
-CatCog (Categorical Cognition) -  a cognitive architecture based on category theory
+CatCog (Categorical Cognition) -  cognitive architecture/artificial general intelligence based on category theory
